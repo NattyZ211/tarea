@@ -5,7 +5,8 @@ tarea 4
 1. Primer elemento
 2. Segundo elemento
 **texto en negrita**
- __texto en negrita__
+__texto en negrita__
+
 *texto en cursiva*
 _texto en cursiva_
 
