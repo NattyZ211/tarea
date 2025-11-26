@@ -13,10 +13,10 @@ _texto en cursiva_
 ___texto en negrita y cursiva___
 
 ~~texto tachado~~
-\esto no es cursiva
+> Esta es una cita de nivel 1
 # Encabezado 1
 ## Encabezado 2
 ### Encabezado 3 
-> Esta es una cita de nivel 1
+
 >> Esta es una cita de nivel 2
 
