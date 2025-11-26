@@ -35,6 +35,7 @@ ___texto en negrita y cursiva___
 
 Esto sería un encabezado 1.2
 ===
+
 Esto sería un encabezado 2.2
 —-
 
