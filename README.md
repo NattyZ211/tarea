@@ -27,5 +27,16 @@ ___texto en negrita y cursiva___
 
 ### Encabezado 3 
 
+#### Encabezado 4
+
+##### Encabezado 5
+
+###### Encabezado 6
+
+Esto sería un encabezado 1.2
+===
+Esto sería un encabezado 2.2
+—-
+
 >> Esta es una cita de nivel 2
 
