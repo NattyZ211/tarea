@@ -1,5 +1,11 @@
 # tarea
 tarea 4
+
+~~~
+Creando códigos de bloque.
+Puedes añadir tantas líneas y párrafos como quieras.  
+~~~
+
 * Elemento 1
 * Elemento 2
 1. Primer elemento
